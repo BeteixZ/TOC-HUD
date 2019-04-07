@@ -1,5 +1,4 @@
 --TOC_HUD Build V1.0
---You must do it well
 
 --Data Isolation
 
